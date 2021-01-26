@@ -1,33 +1,38 @@
-# 👋 Hey, everybody!
-#### We're Galaxy IT. Our small team of 8 people is happy to welcome you to our agency's in GitHub page. We have a small range of specializations in order to achieve maximum quality in our services.
+<h1 align="center">👋 Hey, everybody!</h1>
+### We're Galaxy IT. Our small team of 8 people is happy to welcome you to our agency's in GitHub page. We have a small range of specializations in order to achieve maximum quality in our services.
 
 ~~~
 ### Only Web & Mobile Design and Web Development ###
 ~~~
+
 <img src="https://gpvc.arturio.dev/Galaxy-IT" alt="profile views">
 
-<br />
-🛠 We use modern tools for project development.
+
+### 🛠 We use modern tools for project development.
 <br /><br />
-⌚We appreciate your time. The timely delivery of the project benefits both you and us.
+
+### ⌚We appreciate your time. The timely delivery of the project benefits both you and us.
 <br /><br />
- We are the ones who translate ☕ into working code :-)
+
+### We are the ones who translate ☕ into working code 😄
 <br /><br />
-🌎 We work with customers all over the planet.
+
+### 🌎 We work with customers all over the planet.
 <br /><br />
-🧠 Our main tool is our brain.
+
+### 🧠 Our main tool is our brain.
 <br /><br />
 
 ## 📬 Contact us, if you want awesome results fast!:
 
-[<img align="left" alt="galaxy-it website" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/website.svg" />][website]
-[<img align="left" alt="galaxy-it linkedin" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/linkedin.svg" />][linkedin]
-[<img align="left" alt="galaxy-it facebook" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/facebook.svg" />][facebook]
-[<img align="left" alt="galaxy-it instagram" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/instagram.svg" />][instagram]
-[<img align="left" alt="galaxy-it telegram" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/tg.svg" />][telegram]
-[<img align="left" alt="galaxy-it upwork" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/up.svg" />][upwork]
-[<img align="left" alt="galaxy-it behance" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/behance.svg" />][behance]
-[<img align="left" alt="galaxy-it email" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/mail.svg" />][mailto]
+[<img align="left" alt="galaxy-it website" width="40px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/website.svg" />][website]
+[<img align="left" alt="galaxy-it linkedin" width="40px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/linkedin.svg" />][linkedin]
+[<img align="left" alt="galaxy-it facebook" width="40px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/facebook.svg" />][facebook]
+[<img align="left" alt="galaxy-it instagram" width="40px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/instagram.svg" />][instagram]
+[<img align="left" alt="galaxy-it telegram" width="40px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/tg.svg" />][telegram]
+[<img align="left" alt="galaxy-it upwork" width="40px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/up.svg" />][upwork]
+[<img align="left" alt="galaxy-it behance" width="40px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/behance.svg" />][behance]
+[<img align="left" alt="galaxy-it email" width="40px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/mail.svg" />][mailto]
 
 [website]: https://galaxy-it.net/
 [linkedin]: https://www.linkedin.com/company/llc-galaxy-it/
@@ -38,39 +43,18 @@
 [behance]: https://www.behance.net/GalaxyIT/
 [mailto]: mailto:hello@galaxy-it.net
 
-<!--
-**Galaxy-IT/Galaxy-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 <br />	
 <br />	
 
-### Most used languages	
-<img align="left" alt="status" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeroshenko&layout=compact" />
-
+## ⚡⚡⚡ Most used languages ✨✨✨
+<img align="left" alt="status" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxy-IT&layout=compact" />
 
 <br />	
 <br />	
 <br />	
 <br />	
 
-<br />	
-<br />	
-<br />	
-<br />	
-
-### Skills:
+### Our Skills:
 <code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
 <code><img alt="PugJS (Jade)" width="40px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" /></code>
 <code><img alt="CSS" width="40px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
@@ -87,4 +71,3 @@ Here are some ideas to get you started:
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
 <code><img alt="Figma" width="40px" height="40px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /></code>
 <code><img alt="Photoshop" width="40px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" /></code>
--->
