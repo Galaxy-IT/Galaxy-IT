@@ -33,18 +33,28 @@
 ## ⚡⚡⚡ Most used languages
 ![Galaxy IT profile views][stats]
 
+### 🔨 Our Tools:
+<code><img alt="Web Storm" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" /></code>
+<code><img alt="PHP Storm" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" /></code>
+<code><img alt="Data Grip" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" /></code>
+<code><img alt="yourtrack" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/yourtrack.svg" /></code>
+<code><img alt="teamcity" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/teamcity-icon.svg" /></code>
+<code><img alt="trello" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/trello.svg" /></code>
+
 ### 🔨 Our Skills:
 <code><img alt="Figma" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /></code>
 <code><img alt="Photoshop" width="40" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" /></code>
 ---
+<code><img alt="gulp" width="15" height="40" src="https://cdn.worldvectorlogo.com/logos/gulp.svg" /></code>
 <code><img alt="HTML5" width="40" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
 <code><img alt="PugJS (Jade)" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/pug.svg" /></code>
-<code><img alt="gulp" width="15" height="40" src="https://cdn.worldvectorlogo.com/logos/gulp.svg" /></code>
+<code><img alt="Bootstrap 4" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" /></code>
 <code><img alt="Sass" width="60" height="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></code>
 <code><img alt="Less" width="60" height="40" src="https://cdn.worldvectorlogo.com/logos/less-63.svg" /></code>
 <code><img alt="Stylus" width="60" height="40" src="https://cdn.worldvectorlogo.com/logos/stylus-1.svg" /></code>
 <code><img alt="JavaScript" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
 <code><img alt="TypeScript" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></code>
+<code><img alt="Vue" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" /></code>
 ---
 <code><img alt="Git" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
 <code><img alt="PHP" width="80" height="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" /></code>
