@@ -61,13 +61,10 @@
 <code><img alt="Sass" width="40px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></code>
 <code><img alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
 <code><img alt="TypeScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></code>
-<code><img alt="React" width="40px" src="https://cdn.worldvectorlogo.com/logos/react.svg" /></code>
-<code><img alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" /></code>
 <code><img alt="Gatsby" width="40px" src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" /></code>
 <code><img alt="Graphql" width="40px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg" /></code>
 <code><img alt="Firebase" width="40px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" /></code>
 <code><img alt="NodeJs" width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></code>
-<code><img alt="Wordpress" width="40px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" /></code>
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
 <code><img alt="Figma" width="40px" height="40px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /></code>
 <code><img alt="Photoshop" width="40px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" /></code>
