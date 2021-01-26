@@ -9,19 +9,14 @@
 
 
 ### 🛠 We use modern tools for project development.
-<br /><br />
 
 ### ⌚We appreciate your time. The timely delivery of the project benefits both you and us.
-<br /><br />
 
 ### We are the ones who translate ☕ into working code 😄
-<br /><br />
 
 ### 🌎 We work with customers all over the planet.
-<br /><br />
 
 ### 🧠 Our main tool is our brain.
-<br /><br />
 
 ## 📬 Contact us, if you want awesome results fast!:
 
