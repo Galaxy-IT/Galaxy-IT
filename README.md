@@ -34,21 +34,24 @@
 ![Galaxy IT profile views][stats]
 
 ### 🔨 Our Skills:
+<code><img alt="Figma" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /></code>
+<code><img alt="Photoshop" width="40" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" /></code>
+---
 <code><img alt="HTML5" width="40" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
-<code><img alt="PugJS (Jade)" width="40" src="https://cdn.worldvectorlogo.com/logos/pug.svg" /></code>
+<code><img alt="PugJS (Jade)" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/pug.svg" /></code>
 <code><img alt="gulp" width="15" height="40" src="https://cdn.worldvectorlogo.com/logos/gulp.svg" /></code>
-<code><img alt="Sass" width="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></code>
-<code><img alt="Less" width="40" src="https://cdn.worldvectorlogo.com/logos/less-63.svg" /></code>
-<code><img alt="Stylus" width="40" src="https://cdn.worldvectorlogo.com/logos/stylus-1.svg" /></code>
+<code><img alt="Sass" width="60" height="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></code>
+<code><img alt="Less" width="60" height="40" src="https://cdn.worldvectorlogo.com/logos/less-63.svg" /></code>
+<code><img alt="Stylus" width="60" height="40" src="https://cdn.worldvectorlogo.com/logos/stylus-1.svg" /></code>
 <code><img alt="JavaScript" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
 <code><img alt="TypeScript" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></code>
+---
 <code><img alt="Git" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
 <code><img alt="PHP" width="80" height="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" /></code>
 <code><img alt="Laravel" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></code>
 <code><img alt="mongodb" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" /></code>
 <code><img alt="postgresql" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" /></code>
-<code><img alt="Figma" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /></code>
-<code><img alt="Photoshop" width="40" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" /></code>
+---
 
 [website]: https://galaxy-it.net/ "Galaxy IT The Team of web Development"
 [website_src]: https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/website.svg "Galaxy IT The Team of web Development"
