@@ -1,4 +1,6 @@
 <h1 align="center">👋 Hey, everybody!</h1>
+
+---
 ### We're Galaxy IT. Our small team of 8 people is happy to welcome you to our agency's in GitHub page. We have a small range of specializations in order to achieve maximum quality in our services.
 
 ~~~
@@ -38,16 +40,10 @@
 [behance]: https://www.behance.net/GalaxyIT/
 [mailto]: mailto:hello@galaxy-it.net
 
-<br />	
-<br />	
 
 ## ⚡⚡⚡ Most used languages ✨✨✨
 <img align="left" alt="status" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxy-IT&layout=compact" />
 
-<br />	
-<br />	
-<br />	
-<br />	
 
 ### Our Skills:
 <code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
