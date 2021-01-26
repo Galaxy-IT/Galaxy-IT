@@ -1,18 +1,33 @@
-# Hi my future contractor 👋
+# 👋 Hey, everybody!
+#### We're Galaxy IT. Our small team of 8 people is happy to welcome you to our agency's in GitHub page. We have a small range of specializations in order to achieve maximum quality in our services.
 
+~~~
+### Only Web & Mobile Design and Web Development ###
+~~~
 <img src="https://gpvc.arturio.dev/Galaxy-IT" alt="profile views">
 
+<br />
+🛠 We use modern tools for project development.
+<br /><br />
+⌚We appreciate your time. The timely delivery of the project benefits both you and us.
+<br /><br />
+ We are the ones who translate ☕ into working code :-)
+<br /><br />
+🌎 We work with customers all over the planet.
+<br /><br />
+🧠 Our main tool is our brain.
+<br /><br />
 
-## Contact with us:
+## 📬 Contact us, if you want awesome results fast!:
 
-[<img align="left" alt="galaxy-it website" width="22px" src="" />][website]
-[<img align="left" alt="galaxy-it linkedin" width="22px" src="https://galaxy-it.net/img/svg/footer-linkedin.svg" />][linkedin]
-[<img align="left" alt="galaxy-it facebook" width="22px" src="https://galaxy-it.net/img/svg/footer-facebook.svg" />][facebook]
-[<img align="left" alt="galaxy-it instagram" width="22px" src="https://galaxy-it.net/img/svg/footer-instagram.svg" />][instagram]
-[<img align="left" alt="galaxy-it telegram" width="22px" src="https://galaxy-it.net/img/svg/footer-telegram.svg" />][telegram]
-[<img align="left" alt="galaxy-it upwork" width="22px" src="https://galaxy-it.net/img/svg/footer-upwork2.svg" />][upwork]
-[<img align="left" alt="galaxy-it behance" width="22px" src="https://galaxy-it.net/img/svg/footer-behance.svg" />][behance]
-[<img align="left" alt="galaxy-it behance" width="22px" src="https://galaxy-it.net/img/svg/footer-behance.svg" />][mailto]
+[<img align="left" alt="galaxy-it website" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/website.svg" />][website]
+[<img align="left" alt="galaxy-it linkedin" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/linkedin.svg" />][linkedin]
+[<img align="left" alt="galaxy-it facebook" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/facebook.svg" />][facebook]
+[<img align="left" alt="galaxy-it instagram" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/instagram.svg" />][instagram]
+[<img align="left" alt="galaxy-it telegram" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/tg.svg" />][telegram]
+[<img align="left" alt="galaxy-it upwork" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/up.svg" />][upwork]
+[<img align="left" alt="galaxy-it behance" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/behance.svg" />][behance]
+[<img align="left" alt="galaxy-it email" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/mail.svg" />][mailto]
 
 [website]: https://galaxy-it.net/
 [linkedin]: https://www.linkedin.com/company/llc-galaxy-it/
