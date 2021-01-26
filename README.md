@@ -20,14 +20,14 @@
 
 ## 📬 Contact us, if you want awesome results fast!:
 
-[<img align="left" alt="galaxy-it website" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/website.svg" />][website]
-[<img align="left" alt="galaxy-it linkedin" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/linkedin.svg" />][linkedin]
-[<img align="left" alt="galaxy-it facebook" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/facebook.svg" />][facebook]
-[<img align="left" alt="galaxy-it instagram" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/instagram.svg" />][instagram]
-[<img align="left" alt="galaxy-it telegram" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/tg.svg" />][telegram]
-[<img align="left" alt="galaxy-it upwork" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/up.svg" />][upwork]
-[<img align="left" alt="galaxy-it behance" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/behance.svg" />][behance]
-[<img align="left" alt="galaxy-it email" width="22px" src="https://github.com/Galaxy-IT/Galaxy-IT/blob/master/icon/mail.svg" />][mailto]
+[<img align="left" alt="galaxy-it website" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/website.svg" />][website]
+[<img align="left" alt="galaxy-it linkedin" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/linkedin.svg" />][linkedin]
+[<img align="left" alt="galaxy-it facebook" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/facebook.svg" />][facebook]
+[<img align="left" alt="galaxy-it instagram" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/instagram.svg" />][instagram]
+[<img align="left" alt="galaxy-it telegram" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/tg.svg" />][telegram]
+[<img align="left" alt="galaxy-it upwork" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/up.svg" />][upwork]
+[<img align="left" alt="galaxy-it behance" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/behance.svg" />][behance]
+[<img align="left" alt="galaxy-it email" width="22px" src="https://raw.githubusercontent.com/Galaxy-IT/Galaxy-IT/675004d7f4f4e7a6b54ce431b85bf619eefcb1c8/icon/mail.svg" />][mailto]
 
 [website]: https://galaxy-it.net/
 [linkedin]: https://www.linkedin.com/company/llc-galaxy-it/
